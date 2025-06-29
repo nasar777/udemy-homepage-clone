@@ -1,0 +1,150 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.su{
+    color:white;
+    background-color: blueviolet;
+    border:none;
+    padding:10px 10px 10px 10px;
+    font-size:15px;
+    border-radius: 4px;
+   
+}
+.su:hover{
+    background-color: darkviolet;
+}
+.bimg{
+    background-image: url('https://img-c.udemycdn.com/notices/web_carousel_slide/image/e6cc1a30-2dec-4dc5-b0f2-c5b656909d5b.jpg');
+    background-size: cover;
+   height:400px;
+   padding:70px;
+}
+.courses img{
+    padding-left: 90px;
+    position: absolute;
+}
+.obj{
+    padding-top: 20px;
+}
+.obj ul li {
+    display: inline;
+}
+
+.obj li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 1.2em;
+}
+.obj li{
+    padding-left: 25px;
+    padding-right: 10px;
+}
+.selectcourses li a:hover{
+    color: black;
+}
+
+
+.courses{
+    display: flex;
+    justify-content: space-evenly;
+}
+.c1{
+    background-color:rgb(238, 238, 238);
+    border-radius: 30px;
+    width: 150px;
+    text-align: center;
+    line-height: 5px;
+    padding-top: 3px;
+}
+.c2{
+    background-color: rgb(238, 238, 238);
+    border-radius: 30px;
+    width: 150px;
+    text-align: center;
+    line-height: 5px;
+    padding-top: 3px;
+}
+.c3{
+    background-color: rgb(238, 238, 238);
+    border-radius: 30px;
+    width: 150px;
+    text-align: center;
+    line-height: 5px;
+    padding-top: 3px;
+}
+.c4{
+    background-color: rgb(238, 238, 238);
+    border-radius: 30px;
+    width: 150px;
+    text-align: center;
+    line-height: 5px;
+    padding-top: 3px;
+}
+.c5{
+    background-color: rgb(238, 238, 238);
+    border-radius: 30px;
+    width: 150px;
+    text-align: center;
+    line-height: 5px;
+    padding-top: 3px;
+}
+.c6{
+    background-color: rgb(238, 238, 238);
+    border-radius: 30px;
+    width: 150px;
+    text-align: center;
+    line-height: 5px;
+    padding-top: 3px;
+}
+.c7{
+    background-color: rgb(238, 238, 238);
+    border-radius: 30px;
+    width: 170px;
+    text-align: center;
+    line-height: 5px;
+    padding-top: 3px;
+}
+.c1:hover{
+    background-color: black;
+    color: white;
+}
+.c2:hover{
+    background-color: black;
+    color: white;
+}
+.c3:hover{
+    background-color: black;
+    color: white;
+}
+.c4:hover{
+    background-color: black;
+    color: white;
+}
+.c5:hover{
+    background-color: black;
+    color: white;
+}
+.c6:hover{
+    background-color: black;
+    color: white;
+}
+.c7:hover{
+    background-color: black;
+    color: white;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.foot{
+    height:80px;
+    background-color: black;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color:white;
+}
+
